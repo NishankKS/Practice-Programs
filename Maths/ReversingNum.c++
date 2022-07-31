@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+// Counting the digits,Reversing and Palindrome Number uses the same concept
 
 int main() {
 
